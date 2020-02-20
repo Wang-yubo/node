@@ -1,0 +1,1 @@
+console.log("b.js", require.main === module);
